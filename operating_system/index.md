@@ -18,11 +18,11 @@ Since you used Windows, everything you did will be dug up with [DiskDigger](http
 
 Absolutely not. I don't care if your provider "doesn't log", Tor is the best protection you can get. Here's an excerpt from the Tails website:
 
- > Some users have requested support for VPNs in Tails to “improve” Tor’s anonymity. You know, more hops must be better, right?. That’s just incorrect – if anything VPNs make the situation worse since they basically introduce either a permanent entry guard (if the VPN is set up before Tor) or a permanent exit node (if the VPN is accessed through Tor).
+> Some users have requested support for VPNs in Tails to “improve” Tor’s anonymity. You know, more hops must be better, right?. That’s just incorrect – if anything VPNs make the situation worse since they basically introduce either a permanent entry guard (if the VPN is set up before Tor) or a permanent exit node (if the VPN is accessed through Tor).
 
->  Similarly, we don’t want to support VPNs as a replacement for Tor since that provides terrible anonymity and hence isn’t compatible with Tails’ goal.
+> Similarly, we don’t want to support VPNs as a replacement for Tor since that provides terrible anonymity and hence isn’t compatible with Tails’ goal.
 
-No buyer has ever been caught by Tor de-anonymization, there are many more that have been caught because of a VPN provider subpoena
+No buyer has ever been caught by Tor de-anonymization. Plenty have been caught after a VPN provider subpoena.
 
 ## I already ordered without Tails, what now?
 
@@ -49,7 +49,8 @@ You can make Tails save:
 - Dotfiles
 
 #### Creating Persistence 
-- To create or configure your Persistent Storage, simply go to: Application > Tails > Configure persistent volume 
+- To create or configure your Persistent Storage, simply go to: Application > Tails > Configure persistent volume
+ 
 ![Application > Tails > Configure persistent volume](configure_persistent_volume.png)
 
 - Specify a passphrase of your choice in both the Passphrase and Verify Passphrase text boxes. The best way to create a password that is both strong and memorable is to create a mnemonic of at least 4 words. 
