@@ -81,6 +81,10 @@ Your ISP will only know that you're using Tor, nothing that you're doing. If thi
 
 You can now easily create a wallet from the Feather AppImage. 
 
+## What email provider should I use?
+
+If possible, an invite code to [Riseup](https://riseup.net)is ideal. Otherwise, you can make a [Proton mail](https://mail.proton.me)
+
 ## I've read everything else, how do I install Tails?
 
 The Tails project has an excellent guide [here](https://tails.net/install/index.en.html). You should upgrade your Tails install at least once a month with [this guide](https://tails.net/doc/upgrade/).
