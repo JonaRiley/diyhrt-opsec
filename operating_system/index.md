@@ -50,17 +50,17 @@ You can make Tails save:
 
 #### Creating Persistence 
 - To create or configure your Persistent Storage, simply go to: Application > Tails > Configure persistent volume 
-![Application > Tails > Configure persistent volume](/images/configure_persistent_volume.png)
+![Application > Tails > Configure persistent volume](configure_persistent_volume.png)
 
 - Specify a passphrase of your choice in both the Passphrase and Verify Passphrase text boxes. The best way to create a password that is both strong and memorable is to create a mnemonic of at least 4 words. 
 
-![Passphrase creation screen](/images/persistent_volume_passphrase.png)
+![Passphrase creation screen](persistent_volume_passphrase.png)
 
 - Click the create button and a list of features should appear. 
 - You will probably want to enable Personal data, GnuPG, Bitcoin client, and Dotfiles. Others can be added later if you want them.
 - Restart your machine, and your welcome screen should now look like this:
 
-![Welcome screen with passphrase section](/images/welcome_screen_with_persistence.png)
+![Welcome screen with passphrase section](welcome_screen_with_persistence.png)
 
 Once you login, you can now save your personal files, and working documents in the Persistent folder. To open the Persistent folder choose Places -> Persistent. Your other tools you enabled will save automatically. Make a [backup](https://tails.net/doc/persistent_storage/backup/) every once in a while so you don't lose your coins or accounts. 
 
@@ -72,11 +72,11 @@ Your ISP will only know that you're using Tor, nothing that you're doing. If thi
 
 - Download the latest Feather AppImage for Tails from [featherwallet.org](https://featherwallet.org/download/) and move it to your persistent directory 
 
-![Moving the Feather AppImage to a persistent directory](/images/feather_move_to_persistent.gif)
+![Moving the Feather AppImage to a persistent directory](feather_move_to_persistent.gif)
 
 - Make the app executable by right clicking on the AppImage and going to Properties > Permissions > Allow executing file as program
 
-![Making the AppImage executable](/images/making_feather_executable.gif)
+![Making the AppImage executable](making_feather_executable.gif)
 
 You can now easily create a wallet from the Feather AppImage. 
 
