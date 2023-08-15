@@ -10,9 +10,9 @@ It's a pretty useful operating system for doing things that you do not want othe
 
 ## Is it necessary?
 
-**YES.** Even if you think you are just a small fish and nobody will go after you, let me give you an example: you use Tor browser on Windows to make your order and everything goes fine. However, unfortunately your package gets caught by customs because the vendor did not package it correctly. Now law enforcement starts to investigate because someone tried to send illegal drugs to you. They will deliver the package to you, and raid your house shortly afterwards because you are in possession of illegal drugs. This is already pretty bad, but at least you have a little bit of plausible deniability. 
+**YES.** Even if you think nobody will go after you, let me give you an example: you use Tor browser on Windows to make your order and everything goes fine. Your package gets caught by customs because the vendor did not package it correctly. Now law enforcement starts to investigate because someone tried to send illegal drugs to you. They will deliver the package to you, you will accept it and they will raid your house shortly afterwards because you are in possession of illegal drugs. 
 
-Since you used Windows, everything you did will be dug up with [DiskDigger](https://diskdigger.org/) and you go to prison. Alternatively, you could have been using Tails because no one will know what happened on that flash drive, it's all wiped when you're done, they can't even prove you used Tails. 
+Since you used Windows, everything you did will be dug up with [DiskDigger](https://diskdigger.org/) and you go to prison. Alternatively, you could have been using Tails and no one would know what happened on that flash drive, it's all wiped when you're done, they can't even prove you used Tails. 
 
 ## Do I need a VPN? 
 
